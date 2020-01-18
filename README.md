@@ -1,2 +1,2 @@
 # SENIOR-PROJECT-2020
-Collection of Interactive Digital Art Programs to be used in an installation space.
+Documenting my journey of learning Processing, Max, and Javascript to create interactive pieces of digital art for my senior project. 
