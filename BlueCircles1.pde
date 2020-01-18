@@ -1,7 +1,7 @@
 // Sameer Desai
 // OSC from Ableton to Processing
 // Volume levels of 4 tracks in Ableton
-// control the radius of 4 circles
+// control the radii of 4 circles
 import oscP5.*;
 import netP5.*;
 
